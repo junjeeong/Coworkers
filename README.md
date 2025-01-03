@@ -1,4 +1,4 @@
-# 🚧👷🏻 Coworkers
+# 🚧👷🏻 Coworkers
 ## <img width="980" alt="스크린샷 2025-01-03 오후 8 41 19" src="https://github.com/user-attachments/assets/15746a1f-65f6-4eaf-8f57-a632c54cff63" />
 
 ## 💁‍♂️ 소개
