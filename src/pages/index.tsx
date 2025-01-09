@@ -1,5 +1,6 @@
 const Home = () => {
-  return <div>HOME페이지</div>;
+  return <div className="text-4xl">HOME페이지</div>
+  
 };
 
 export default Home;
