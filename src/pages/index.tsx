@@ -1,6 +1,7 @@
+import Sidebar from "./components/layout/Sidebar";
+
 const Home = () => {
-  return <div className="text-4xl">HOME페이지</div>
-  
+  return <div></div>;
 };
 
 export default Home;
